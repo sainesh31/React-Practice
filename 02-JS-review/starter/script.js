@@ -136,6 +136,8 @@ const data = [
   },
 ];
 
+console.log(data);
+
 function getBooks() {
   return data;
 }
