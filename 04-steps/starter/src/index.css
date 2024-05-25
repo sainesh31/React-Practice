@@ -97,3 +97,9 @@ h3 {
 .close:hover {
   color: #7950f2;
 }
+
+.Counter{
+  margin-top: 30px;
+  font-family: sans-serif;
+  text-align: center;
+}
